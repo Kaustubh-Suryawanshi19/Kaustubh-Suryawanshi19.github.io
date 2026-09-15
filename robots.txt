@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Kaustubh-Suryawanshi19.github.io/sitemap.xml
